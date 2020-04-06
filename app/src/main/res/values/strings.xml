@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">LikeUnlike</string>
+    <string name="like">30</string>
+    <string name="unlike">90</string>
+    <string name="likes">Like</string>
+    <string name="unlikes">Unlike</string>
+    <string name="food">image_food</string>
+</resources>
